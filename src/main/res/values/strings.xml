@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fifa 16 - PLAYERS</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Player Name Search</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-4551160061410779/2890216840</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-4551160061410779/2890216840</string>
+    <string name="title_activity_main3">Player Search</string>
+    <string name="advertisment1">http://www.futhead.com/16/players/?page=</string>
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
